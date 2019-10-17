@@ -1,0 +1,11 @@
+C:\Users\evans\source\repos\WindowsFormPractice\bin\Debug\netcoreapp3.0\WindowsFormPractice.exe
+C:\Users\evans\source\repos\WindowsFormPractice\bin\Debug\netcoreapp3.0\WindowsFormPractice.deps.json
+C:\Users\evans\source\repos\WindowsFormPractice\bin\Debug\netcoreapp3.0\WindowsFormPractice.runtimeconfig.json
+C:\Users\evans\source\repos\WindowsFormPractice\bin\Debug\netcoreapp3.0\WindowsFormPractice.runtimeconfig.dev.json
+C:\Users\evans\source\repos\WindowsFormPractice\bin\Debug\netcoreapp3.0\WindowsFormPractice.dll
+C:\Users\evans\source\repos\WindowsFormPractice\bin\Debug\netcoreapp3.0\WindowsFormPractice.pdb
+C:\Users\evans\source\repos\WindowsFormPractice\obj\Debug\netcoreapp3.0\WindowsFormPractice.csprojAssemblyReference.cache
+C:\Users\evans\source\repos\WindowsFormPractice\obj\Debug\netcoreapp3.0\WindowsFormPractice.AssemblyInfoInputs.cache
+C:\Users\evans\source\repos\WindowsFormPractice\obj\Debug\netcoreapp3.0\WindowsFormPractice.AssemblyInfo.cs
+C:\Users\evans\source\repos\WindowsFormPractice\obj\Debug\netcoreapp3.0\WindowsFormPractice.dll
+C:\Users\evans\source\repos\WindowsFormPractice\obj\Debug\netcoreapp3.0\WindowsFormPractice.pdb
